@@ -1,0 +1,16 @@
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\Main.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\core\Command.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\core\Game.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\core\InvalidCommandException.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\core\SaveLoad.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\core\WorldInfo.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Door.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Entity.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\GameState.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Item.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Key.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Monster.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Player.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Potion.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Room.java
+C:\Users\ygromova\IdeaProjects\java-console-game-template\src\com\example\dungeon\model\Weapon.java

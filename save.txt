@@ -1,0 +1,7 @@
+player;Герой;34;5
+inventory;Weapon:Магический меч
+room;Сокровищница
+room_data;Сокровищница;description:Золото, драгоценности и волшебные предметы;monster:Гоблин,7,20;neighbors:west>Пещера;
+room_data;Пещера;description:Темно и сыро.;neighbors:east>Сокровищница|west>Лес;doors:east>Сокровищница>false>Ключ от сокровищницы;
+room_data;Лес;description:Шелест листвы и птичий щебет.;items:Potion:Малое зелье;neighbors:east>Пещера|south>Площадь;
+room_data;Площадь;description:Каменная площадь с фонтаном.;neighbors:north>Лес;
